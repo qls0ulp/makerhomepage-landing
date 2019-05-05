@@ -1,5 +1,3 @@
-*
-!.gitignore
-!index.html
-!netlify.toml
-!functions/*
+.vscode
+.eslintrc.json
+node_modules
